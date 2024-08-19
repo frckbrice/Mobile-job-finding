@@ -1,17 +1,26 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
+    "jsx": "react",
+    "jsx": "react",
     "strict": true,
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"]
     }
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "app/index.jsx",
+    "app/_layout.jsx",
+    "app/_layout.jsx",
+    "components/common/cards/popular/PopularJobCard.jsx",
+    "components/common/header/ScreenHeaderBtn.jsx",
+    "constants/images.js",
+    "components/jobdetails/tabs/Tabs.jsx",
+    "components/jobdetails/tabs/tabs.style.js",
+    "components/jobdetails/tabs/tabs.style.js"
   ]
 }

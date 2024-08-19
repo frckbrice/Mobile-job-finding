@@ -1,4 +1,5 @@
 import { Image, StyleSheet, Platform } from 'react-native';
+import React from 'react';
 
 import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
