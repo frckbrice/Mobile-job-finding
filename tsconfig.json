@@ -22,6 +22,10 @@
     "components/jobdetails/tabs/Tabs.jsx",
     "components/jobdetails/tabs/tabs.style.js",
     "components/jobdetails/tabs/tabs.style.js",
-    "components/common/cards/nearby/NearbyJobCard.jsx"
+    "components/common/cards/nearby/NearbyJobCard.jsx",
+    "components/jobdetails/footer/Footer.jsx",
+    "components/jobdetails/about/About.jsx",
+    "components/jobdetails/specifics/Specifics.jsx",
+    "components/jobdetails/company/Company.jsx"
   ]
 }

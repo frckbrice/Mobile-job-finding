@@ -40,6 +40,12 @@
         "projectId": "a74e7b2f-a7a4-4453-baac-55c868ebb11b"
       }
     },
-    "owner": "maebrie2017"
+    "owner": "maebrie2017",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a74e7b2f-a7a4-4453-baac-55c868ebb11b"
+    }
   }
 }
